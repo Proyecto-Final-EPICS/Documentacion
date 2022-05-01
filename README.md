@@ -6,7 +6,7 @@
 - [@Marta-Arrieta](https://github.com/Marta-Arrieta)
 
 ## Overview
-This repository is meant to explain the different games found in this [this application](https://github.com/Proyecto-Final-EPICS/Ingles-para-todos), made for the visually impaired, using the [Bolt extension](https://assetstore.unity.com/packages/tools/visual-scripting/bolt-163802)'s flow graphs.
+This repository is meant to explain the different games found in this [this application](https://github.com/Proyecto-Final-EPICS/Ingles-para-todos), which was made to help native spanish speakers who suffer from visual impairment, through the use of the [Bolt extension](https://assetstore.unity.com/packages/tools/visual-scripting/bolt-163802)'s flow graphs.
 
 ## TO DO
 | Section | State | Comments|
