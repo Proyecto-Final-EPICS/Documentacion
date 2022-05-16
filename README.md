@@ -32,6 +32,9 @@ We will develop the project with the Institución Educativa Distrital La Magdale
 - [Daniel E. Martinez Arias](https://github.com/danielking1205)
 - [Fernando Acuña Garcia](https://github.com/iNaFeR02)
 - [Shalem A. Janna Diaz](https://github.com/SJanna)
+- [Harry M. Cepeda Reales](https://github.com/Harrison0123)
+- [Eliana D. Velasquez Rodriguez](https://github.com/EliMeer)
+- https://github.com/Harrison0123
 ### Web
 - [Laura A. Benavides Celis](https://github.com/laura13272002)
 - [Leonardo D. Lizcano Pinto](https://github.com/LeoLizc)
