@@ -33,7 +33,6 @@ We will develop the project with the Institución Educativa Distrital La Magdale
 - [Fernando Acuña Garcia](https://github.com/iNaFeR02)
 - [Shalem A. Janna Diaz](https://github.com/SJanna)
 ### Web
-Leonardo Lizcano, Vergara y Laura Benavides, Jesus Duran, Yenelis
 - [Laura A. Benavides Celis](https://github.com/laura13272002)
 - [Leonardo D. Lizcano Pinto](https://github.com/LeoLizc)
 - [Leonardo D. Vergara Marquez](https://github.com/vergaradl)
