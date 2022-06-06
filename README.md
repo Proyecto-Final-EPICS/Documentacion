@@ -41,7 +41,7 @@ We will develop the project with the Institución Educativa Distrital La Magdale
 - [Leonardo D. Lizcano Pinto](https://github.com/LeoLizc)
 - [Leonardo D. Vergara Marquez](https://github.com/vergaradl)
 - [Yenelis Molina Zurita](https://github.com/Pupa08)
-- [Jesus David Duran Cardenas](https://github.com/Davidduran2404)
+- [Jesus D. Duran Cardenas](https://github.com/Davidduran2404)
 ### Documentation
 - [Felipe A. De Lima Correa](https://github.com/d3l1m)
 - [Marta P. Arrieta Contreras](https://github.com/Marta-Arrieta)
