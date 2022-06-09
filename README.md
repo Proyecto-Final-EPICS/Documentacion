@@ -6,7 +6,9 @@ Historically, protecting the rights of people with disabilities has been a slow 
 There are many mobile learning applications with accessibility features for visually impaired people. However, no applications are focusing on English learning for all ages from a basic level. We consider this a high priority to close the gap for those students with visual impairments.
 
 ## Description
-During in-person learning, the techniques explained here are instrumental because they take advantage of the space shared by the students, where it is easier to learn as a group. However, the situation during distance learning is different. The challenge in this situation is to encourage visually impaired students to perform such activities without interacting with their peers visually to compare themselves and learn from them. The mobile application should help create a communication bridge between students who are simultaneously using the application or guide the student in that particular situation if the use is asynchronous.
+There is a need to adapt educational and instructional materials to visually impaired students because they do not receive the educational benefit of the "hands-on" courses, nor are they on equal footing with their sighted peers without special adaptive tools and techniques (Supalo et al., 2007). The general impression of virtual courses is that they are designed for sighted learners.
+
+Therefore, this project seeks to decrease the gap between sighted and visually impaired english students through the use of accessibility tools.
 
 ## Objectives
 The main objective is to raise awareness towards the inclusion of people with low vision and blindness in English learning by designing and implementing an accessible and inclusive mobile application for a Colombian public school.
